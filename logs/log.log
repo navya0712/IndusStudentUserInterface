@@ -1,0 +1,22 @@
+2024-08-24 21:28:37,280 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-24 21:28:47,303 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: Student inserted successfully with ID 512
+2024-08-25 16:11:50,920 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-25 16:12:03,317 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: Student inserted successfully with ID 460
+2024-08-25 17:59:29,503 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-25 17:59:38,999 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: Student inserted successfully with ID 23645
+2024-08-25 18:00:01,931 INFO c.i.t.p.i.StudentDaoImpl [main] In deleteStudent: Student deleted Successfully for ID 23645
+2024-08-25 18:00:30,670 INFO c.i.t.p.i.StudentDaoImpl [main] In fetchStudent: Student data successfully fetched for ID 1002118096
+2024-08-25 18:49:26,669 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-08-25 18:49:35,105 INFO c.i.t.p.i.StudentDaoImpl [main] In deleteStudent: Student deleted Successfully for ID 506
+2024-08-25 18:49:40,512 WARN c.i.t.p.i.StudentDaoImpl [main] In fetchStudent: Student with Provided ID not found
+2024-08-28 15:19:53,390 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-09-02 14:16:00,733 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-09-02 14:16:18,463 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: Student inserted successfully with ID 1234
+2024-09-02 14:16:46,866 INFO c.i.t.p.i.StudentDaoImpl [main] In fetchStudent: Student data successfully fetched for ID 1234
+2024-09-02 14:17:02,406 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: A file with the provided Student ID already exists
+2024-09-02 14:17:21,404 INFO c.i.t.p.i.StudentDaoImpl [main] In deleteStudent: Student deleted Successfully for ID 1234
+2024-09-02 14:19:28,612 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: Student inserted successfully with ID 123
+2024-09-02 14:19:47,116 INFO c.i.t.p.i.StudentDaoImpl [main] In deleteStudent: Student deleted Successfully for ID 123
+2024-09-02 14:21:47,378 INFO c.i.t.p.i.StudentDaoImpl [main] StudentDaoImpl initialized with studentDataDir: C:\IndusProjects\StudentData\
+2024-09-02 14:21:57,677 INFO c.i.t.p.i.StudentDaoImpl [main] In insertStudent: Student inserted successfully with ID 123
+2024-09-02 14:22:12,800 INFO c.i.t.p.i.StudentDaoImpl [main] In deleteStudent: Student deleted Successfully for ID 123
